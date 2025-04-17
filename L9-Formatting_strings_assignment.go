@@ -36,7 +36,5 @@ func main() {
 
 	msg := fmt.Sprintf("Hi %s, your open rate is %.1f percent\n", name, openRate)
 
-	// don't edit below this line
-
 	fmt.Print(msg)
 }
